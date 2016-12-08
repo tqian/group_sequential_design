@@ -1,0 +1,1 @@
+R CMD BATCH ~/git_standardGST/main/simu_MISTIE_singlepop.R ~/git_standardGST/main/Rout/simu_MISTIE_singlepop.Rout.$SGE_TASK_ID
